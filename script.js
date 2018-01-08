@@ -39,13 +39,13 @@
 
       var options = {
         highlightOnMouseOver: true,
-        minColor: '#f00',
-        midColor: '#ddd',
-        maxColor: '#0d0',
-        headerHeight: 40,
+        minColor: '#F78181',
+        midColor: '#FE9A2E',
+        maxColor: '#FF0000',
+        headerHeight: 60,
         fontColor: 'black',
         showScale: false,
-        height: 500,
+        height: 700,
         useWeightedAverageForAggregation: true
       };
 
